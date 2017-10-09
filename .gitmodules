@@ -1,0 +1,12 @@
+[submodule "Console"]
+	path = Console
+	url = https://github.com/CS3141-Team-DROP-TABLE/Console
+[submodule "NetworkAgent"]
+	path = NetworkAgent
+	url = https://github.com/CS3141-Team-DROP-TABLE/NetworkAgent.git
+[submodule "SatelliteServer"]
+	path = SatelliteServer
+	url = https://github.com/CS3141-Team-DROP-TABLE/SatelliteServer.git
+[submodule "CentralServer"]
+	path = CentralServer
+	url = https://github.com/CS3141-Team-DROP-TABLE/CentralServer.git
