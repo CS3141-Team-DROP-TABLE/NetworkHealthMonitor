@@ -10,3 +10,6 @@
 [submodule "CentralServer"]
 	path = CentralServer
 	url = https://github.com/CS3141-Team-DROP-TABLE/CentralServer.git
+[submodule "WebApp"]
+	path = WebApp
+	url = https://github.com/CS3141-Team-DROP-TABLE/WebApp.git
